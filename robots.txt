@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hideki810.github.io/ai-fukugyo-note/sitemap.xml
